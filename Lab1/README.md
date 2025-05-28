@@ -1,5 +1,6 @@
 # NhapMonXuLyAnhSo
 Lab1:
+Công nghệ sử dụng
 1. Ngôn ngữ lập trình
 Python: Ngôn ngữ lập trình cấp cao, phổ biến trong lĩnh vực AI, Machine Learning và xử lý ảnh nhờ tính đơn giản và hệ sinh thái thư viện mạnh mẽ.
 2. Thư viện sử dụng
